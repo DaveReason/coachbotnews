@@ -30,6 +30,18 @@
                   "title":"View Item"
                 }
               ]
+            },
+           {
+              "title":"More News",
+              "image_url":"https://www.macmillan.org.uk/_images/16558-9-17322Logo.png",
+              "subtitle":"Read more news on our news page",
+              "buttons":[
+                {
+                  "type":"web_url",
+                  "url":"https://www.macmillan.org.uk/",
+                  "title":"More News"
+                }
+              ]
             }
           ]
         }
