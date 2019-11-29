@@ -8,25 +8,25 @@
           "image_aspect_ratio": "square",
           "elements":[
             {
-              "title":"Chatfuel Rockets Jersey",
-              "image_url":"https://rockets.chatfuel.com/assets/shirt.jpg",
-              "subtitle":"Size: M",
+              "title":"Information and Support",
+              "image_url":"https://www.macmillan.org.uk/_images/hands_tcm9-45805.jpg",
+              "subtitle":"Come for a chat at one of our information centres.",
               "buttons":[
                 {
                   "type":"web_url",
-                  "url":"https://rockets.chatfuel.com/store",
+                  "url":"https://www.macmillan.org.uk/information-and-support/coping/getting-support/local-information-centres/local-information-centres.html#21341",
                   "title":"View Item"
                 }
               ]
             },
             {
-              "title":"Chatfuel Rockets Jersey",
-              "image_url":"https://rockets.chatfuel.com/assets/shirt.jpg",
-              "subtitle":"Size: L",
+              "title":"Local Volunteers",
+              "image_url":"https://www.macmillan.org.uk/_images/gardening-tools_tcm9-162396.jpg",
+              "subtitle":"Our volunteers offer practical and emotional support",
               "buttons":[
                 {
                   "type":"web_url",
-                  "url":"https://rockets.chatfuel.com/store",
+                  "url":"https://www.macmillan.org.uk/information-and-support/kidney-renal-cancer/coping/getting-support/help-from-your-local-community/local-volunteers.html#21335",
                   "title":"View Item"
                 }
               ]
